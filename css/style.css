@@ -1,0 +1,17 @@
+body{
+    /* background-color:rgb(108, 73, 27); */
+background-image: url("../img/grass.jpg");
+}
+h1{
+    color: brown;
+    background-color: rgb(161, 210, 140);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+p{
+    color: brown;
+    background-color: rgb(183, 119, 36);
+}
